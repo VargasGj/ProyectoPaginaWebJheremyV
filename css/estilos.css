@@ -27,8 +27,10 @@
     }
     .banner{
         width: 100%;
-        height: 450px;
+        height: 350px;
         background-image: url( /imgenes/1x/Recurso\ 1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
     }
     .marcoColumnas{
         display: flex;
